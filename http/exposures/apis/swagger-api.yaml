@@ -72,6 +72,7 @@ http:
       - "{{BaseURL}}/swagger"
       - "{{BaseURL}}/api-doc"
       - "{{BaseURL}}/doc/"
+      - "{{BaseURL}}/swagger-ui/swagger-ui-bundle.js"
 
     headers:
       Accept: text/html
